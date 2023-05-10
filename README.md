@@ -1,1 +1,7 @@
 # csun_project
+<a href="https://github.com/sunclara">
+   <img src="https://avatars.githubusercontent.com/u/132281878?s=96&v=4" 
+width="100px;" alt=""/>
+   <br /><sub><b>Clara Sun</b></sub>
+</a>
+
