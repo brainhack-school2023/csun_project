@@ -7,4 +7,4 @@ width="100px;" alt=""/>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# removed template code and added to the forked "brainhack_project_page" repository instead, as per instructions provided here: https://github.com/school-brainhack/school-brainhack.github.io/blob/main/README.md
+## removed template code and added to the forked "brainhack_project_page" repository instead, as per instructions provided here: https://github.com/school-brainhack/school-brainhack.github.io/blob/main/README.md
